@@ -1,5 +1,6 @@
 
 # Contributing
+[![Build Status](https://dev.azure.com/SMURUGARAJ/devopstutorial/_apis/build/status/devopstutorialone%20-%20CI%20update?branchName=master)](https://dev.azure.com/SMURUGARAJ/devopstutorial/_build/latest?definitionId=5&branchName=master)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
